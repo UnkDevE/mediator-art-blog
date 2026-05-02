@@ -313,7 +313,6 @@ DEPENDENCIES
   bourbon
   csv
   github-pages
-  jekyll
   jemoji
 
 CHECKSUMS
