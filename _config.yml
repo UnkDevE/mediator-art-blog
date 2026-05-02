@@ -22,8 +22,8 @@ author_image: "/assets/images/blog_logo.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+domain: 'ethanriley.github.io'
+url: 'https:ethanriley.github.io' the base hostname & protocol for your site
 #used to display twitter cards
 
 #fill in disqus shortname to use disqus
