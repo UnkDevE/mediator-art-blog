@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Skills 2"
+title:  "Skills 1"
 date:   2026-04-28
 categories: jekyll update
 tags: 
 image: /assets/images/BLOGPHOTOS/DSCF2600-1.jpg
 ---
-# Ideas for skills 2
-### Here is my research and development for skills 2
+# Ideas for skills 1
+### Here is my research and development for skills 1
 
 What makes me mad about social media 
 
@@ -95,7 +95,10 @@ server in vat of fluid - quantum computer looks cool harks to the idea of a brai
 </figure>
 </center>
 
-
+The print is a failure because of too much detail within a small block, I am learning how to print and am not very good at this yet
+![ruined print, detail not easy enough to see from photo but is available to touch and see by eye](/assets/images/BLOGPHOTOS/DSCF2635.jpg)
+Made a mistake on cutting of the print and ruined it, also the drawing looks very similar to the Singh twins!
+![this looks very similar to above but with the slave trade as subject](https://www.singhtwins.co.uk/artwork/mixed-media-categories/images/slaves-of-fashion-series/02406D0610FB46F18EB74697727A73ED/Get-Your-Knee-Off-Our-Necks.jpg)
 
 Isolation and loneliness, how hyper individualistic and consumerism affects society,
 however I'm more interested in alienation from nature, and loneliness that comes of that
@@ -109,6 +112,13 @@ What symbols are natural and living, what symbols are dead and authoritarian?
 # What artists embody scared to me
 #### the living and natural
 
+#####  Influences: 
+- Edward hopper
+- planet of the apes first film
+- Albert Camus Create dangerously and The Rebel
+- Oskar Kokoschka art style
+- David bull, 
+- french school of architecture helping architecture crisis  
 - Vincent van Gogh 
 - Eric revillious
 - Hokusai 
@@ -122,7 +132,7 @@ What symbols are natural and living, what symbols are dead and authoritarian?
 Render in beautiful way but keep juxtaposition!
 Making your own symbol language:
 
-perhaps starting with colour theory!
+Perhaps starting with colour theory!
 - green nature 
 - red urban 
 - yellow? mix 
@@ -130,16 +140,7 @@ perhaps starting with colour theory!
 - gray urban
 
 
-
 ![David Bull mokuhanga printmaker copyright, licensed by edu fair use, how can we be better custodians of ourselves and nature?](https://mokuhankan.com/dreams/images/print_03_large.jpg) 
-
-influences: 
-- Edward hopper
-- planet of the apes first film
-- Albert Camus Create dangerously and The Rebel
-- Oskar Kokoschka art style
-- David bull, 
-- french school of architecture helping architecture crisis  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDLS12_a-fk?si=gEM2JlQyc1E9koPW&amp;start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
@@ -150,29 +151,71 @@ will help?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2cyMvm45dTc?si=7DEmJfmp9hg-lFxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-the mandated emotions for this society the ones that are fed are not happiness 
-
- 
-![The clouds by monet - what are emotions but clouds in the sky?](https://upload.wikimedia.org/wikipedia/commons/2/2a/Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg)
- 
-
-gargoyle heads - Disney notra dame 
+The mandated emotions for this society the ones that are fed are not happiness, 
+unless something is consumed. 
 
 
-alienation from the natural world and showing how we might coexist  
+Gargoyle heads - Disney notra dame -> Corbels in Hereford, Kilpeck
+
+![Corbels by medieval sculptors](https://greatenglishchurches.co.uk/assets/images/Pictures_152A.jpg)
+
+Had a go of showing emotions via Gargoyle heads with dough scuptures:
+![exposure incorrect, first three from left to right do well, fourth was first in the series](/assets/images/BLOGPHOTOS/DSCF2557.jpg)
+
+I then brought this to a screen printing workshop, which was thoroughly enjoyable!
+
+![looks like an archipelago with the repeat, lots of detail lost](/assets/images/BLOGPHOTOS/DSCF2569.jpg)
+
+What is alienation from the natural world and showing how we might coexist?
+
 
 ![Eric Ravillious, inspiration of humans against nature and nature as sacred](https://framemark.vam.ac.uk/collections/2006AK9767/full/735,/0/default.jpg)
  
 
-tempura painting overgrowth 
+I want to show a world without humans, or nature reclaiming human creations,
+to show that we are impermanent, and so is nature - we must live with what we 
+create and also live in harmony of nature and our natures.
+
+ 
+![The clouds by Monet - what are emotions but clouds in the sky?](https://upload.wikimedia.org/wikipedia/commons/2/2a/Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg)
+ 
+![Renoir - the growth of this garden feels perhaps something similar but with buildings might be a good start?](https://upload.wikimedia.org/wikipedia/commons/4/4d/Renoirgarden.jpg)
+
+![Gustav Klimt - here the trees give off an otherworldly aura](https://upload.wikimedia.org/wikipedia/commons/4/45/Gustav_Klimt_068.jpg)
 
 ![Oskar Kokoschka's painting of Prauge, Nostalgia. It's natural to grieve but also to move on](https://s3-eu-west-1.amazonaws.com/ngs-mw-prod/4/04/42404/42404.jpg)
 
 
-![vincent van gogh inspiration of overgrowth in nature](https://upload.wikimedia.org/wikipedia/commons/7/74/Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Vincent van gogh inspiration of overgrowth in nature](https://upload.wikimedia.org/wikipedia/commons/7/74/Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-![with the natural world in hokusai](https://upload.wikimedia.org/wikipedia/commons/1/1d/%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E7%94%B2%E5%B7%9E%E4%B8%89%E5%9D%82%E6%B0%B4%E9%9D%A2-Reflection_in_Lake_at_Misaka_in_Kai_Province_%28K%C5%8Dsh%C5%AB_Misaka_suimen%29%2C_from_the_series_Thirty-six_Views_of_Mount_Fuji_%28Fugaku_sanj%C5%ABrokkei_MET_DP141064.jpg) 
+![with the natural world in Hokusai](https://upload.wikimedia.org/wikipedia/commons/1/1d/%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E7%94%B2%E5%B7%9E%E4%B8%89%E5%9D%82%E6%B0%B4%E9%9D%A2-Reflection_in_Lake_at_Misaka_in_Kai_Province_%28K%C5%8Dsh%C5%AB_Misaka_suimen%29%2C_from_the_series_Thirty-six_Views_of_Mount_Fuji_%28Fugaku_sanj%C5%ABrokkei_MET_DP141064.jpg) 
 
-alienation from our social nature as humans. 
+
+The overgrowth is what we want to capture so lets start with something completely natural and then add more architecture as we go:
+
+![an egg tempura painting, overgrown, however peers said looks like bowl of pears and I can see the resemblance](/assets/images/BLOGPHOTOS/DSCF2600-1.jpg)
+
+Different ideas of nature, there is also the sea that represents the unconscious:
+![egg tempura, using scrumbling techniques, sea colour is off](/assets/images/BLOGPHOTOS/DSCF2619-2.jpg)
+
+![waterfall more structured, I didn't like this piece as the green lacks shade, might do another layer of blue and yellow to give highlights on greens](/assets/images/BLOGPHOTOS/DSCF2616-2.jpg)
+
+then we take some architecture that already exists and draw it, paint it too:
+![pen and ink drawing using .50mm tech pen](/assets/images/BLOGPHOTOS/DSCF2603-1.jpg)
+![watercolour of same subject](/assets/images/BLOGPHOTOS/DSCF2604-1.jpg)
+
+We could overlay the two to get an off structure that might give the idea of alienation,
+as mentioned in tutorial.
+
+![missing image of scratching into above painting which went wrong]()
+
+Then we move to something more or less mundane - a back garden
+
+![tech pen with watercolour on top](/assets/images/BLOGPHOTOS/DSCF2625.jpg)
+
+![egg tempura painting of cropped subject](/assets/images/BLOGPHOTOS/DSCF2631-3.jpg)
+
+ Egg tempuras colour is off and this somewhat works not sure about perspective however,
+ too much detail is in it.
 
 
